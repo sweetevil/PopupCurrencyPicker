@@ -2,7 +2,7 @@
 
 PopupCurrencyPicker is a clean and easy-to-use control which is meant for showing the list of available currency symbols.
 
-![PopupCurrencyPicker](http://imgur.com/kKLAMbY)
+![PopupCurrencyPicker](http://i.imgur.com/kKLAMbY.png)
 
 ## PopupCurrencyPicker
 
@@ -34,8 +34,6 @@ Hiding the Currency Picker
 ## Observing PopupCurrencyPicker Delegate Methods
 
 * Confirm to the PopupCurrencyPicker Delegate <PopupCurrencyPickerDelegate>
-
-#pragma popupCurrency Picker Delegate Methods
 
 ```objective-c
 -(void)popupCurrencyPickerWillShow:(PopupCurrencyPicker *)currencyPicker animated:(BOOL)animated
@@ -72,7 +70,7 @@ Currency Array Hold the follwing Information
 * Index 2 : Currency Name
 * Index 3 : Combination of Above 3 (Complete Title For PickerView)
 
-** Currencies are stored in the pList file present in the App Bundle. Feel free to modify that file :) 
+_Currencies are stored in the pList file present in the App Bundle. Feel free to modify that file :)_
 
 ## License
 
@@ -85,6 +83,6 @@ This library is merge of two other libraries, It is made in order to make the be
 * https://github.com/SimonFairbairn/CurrencyPicker
 * https://github.com/livefront/popupdatepicker-ios
 
-**Thanks to you Guys, You rock. Hope you appreciate my efforts :) All Credits goes to you guys. :) **
+_Thanks to you Guys, You rock. Hope you appreciate my efforts :) All Credits goes to you guys. :)_
 
-** Do Visit me at : [Codeoi.com](http://www.codeoi.com)
+_ Do Visit me at : [Codeoi.com](http://www.codeoi.com)_
